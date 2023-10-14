@@ -1,4 +1,7 @@
 Hello! Guten Tag!
-I'm Jacob Hoopes (@JacobHoopes), a Juinor CS Major at Reed College.
-I like recursion, state diagrams, and am learning to overcome my fear of proofs by reduction.
-Currently I'm taking Computer Systems, Computer Networks, Computability and Complexity, and German 220.
+
+I'm Jacob Hoopes (@JacobHoopes), a recent grad of Reed College.
+I graduated with a degree in Computer Science and a minor in German.
+If you're interested in looking at my work, take a look at my website at hoopes.blog.
+
+Take care!
